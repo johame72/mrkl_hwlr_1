@@ -1,0 +1,12 @@
+{
+  "name": "radio-player",
+  "version": "1.0.0",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^5.0.0-alpha.8",
+    "howler": "^2.2.3"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
